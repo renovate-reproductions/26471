@@ -1,2 +1,3 @@
 {
+  "ignoreDeps": ["go", "google.golang.org/protobuf"]
 }
