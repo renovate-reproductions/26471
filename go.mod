@@ -3,7 +3,7 @@ module app
 go 1.21.5
 
 require (
-	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.31.0-20231115204500-e097f827e652.2
+	buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go v1.28.1-20230721020619-4464c06fa399.4
 )
 
 require (
